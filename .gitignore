@@ -8,3 +8,16 @@ docker-compose.override.yml
 
 construct/node_modules/*
 
+.DS_Store
+.idea
+*.log
+tmp/
+
+*.tern-port
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tsbuildinfo
+.npm
+.eslintcache
